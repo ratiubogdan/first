@@ -1,5 +1,5 @@
 def main():
-    print("hellow world")
+    print("hello world")
     a = input("cum te cheama?")
     print("salut " + a)
     b = input("read a number")
