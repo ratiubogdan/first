@@ -1,4 +1,8 @@
 def main():
+    """
+    Added docstring
+    :return:
+    """
     print("hello world")
     a = input("cum te cheama?")
     print("salut " + a)
