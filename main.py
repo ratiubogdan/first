@@ -3,7 +3,7 @@ def main():
     Added docstring
     :return:
     """
-    print("hello world")
+    print("hello world11")
     a = input("cum te cheama?")
     print("salut " + a)
     b = input("read a number")
